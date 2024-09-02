@@ -66,7 +66,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 Thank you for using this template! If you have any questions or suggestions, feel free to open an issue or submit a pull request.
-```
+
 
 ### Notes:
 - Make sure to replace placeholder text such as `your-username/your-repo-name` and `LICENSE` with actual links or your project's details.
